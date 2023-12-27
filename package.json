@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@my-npm-ikdrocket/learnstorybook-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -82,5 +82,8 @@
     "jackspeak": "2.1.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "learnstorybook-design-system-template@0.1.0"
+  "_id": "learnstorybook-design-system-template@0.1.0",
+  "description": "Storybook design systems tutorial",
+  "repository": "git@github.com:IKDrocket/learnstorybook-design-system.git",
+  "author": "IKDrocket <yusuke1128rocket@gmail.com>"
 }
