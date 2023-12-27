@@ -1,6 +1,11 @@
 # Name of our action
 name: Release
 
+permissions:
+  actions: write
+  checks: write
+  contents: write
+
 # The event that will trigger the action
 on:
   push:
